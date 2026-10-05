@@ -1,0 +1,8 @@
+PORTAFOLIO DE MARÍA CATALÁN VILCHES
+
+1. Descomprime el ZIP.
+2. Abre la carpeta.
+3. Haz doble clic en index.html.
+4. Se abrirá en tu navegador.
+
+No necesitas instalar nada.
